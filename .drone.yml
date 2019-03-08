@@ -1,7 +1,6 @@
 workspace:
   base: /go
   path: src/github.com/jmccann/drone-clair
-
 pipeline:
   build:
     image: golang:1.7
